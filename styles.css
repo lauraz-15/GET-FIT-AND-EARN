@@ -1,0 +1,116 @@
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  position:relative;
+  
+}
+
+.container2 {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50%;
+}
+
+.boxes {
+  float:left;
+  width: 100%;
+}
+.video {
+  text-align: center;
+  float: left;
+  width: 70%;
+
+}
+
+.text {
+  text-align: left;
+  float: left;
+  width: 27%;
+  padding-top: 9%;
+
+}
+
+body {
+  background-image: url('images/newbackground.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  padding-bottom: 10px;
+  font-size: 4rem;
+  color: #494949;
+  border-bottom: 1px solid #000;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  padding-bottom: 10px;
+  font-size: 2rem;
+  color: #494949;
+  text-align: left;
+  padding-left: 7%;
+
+}
+
+p {
+  color: #494949;
+  font-family: 'Montserrat';
+}
+
+ .first {
+   font-size: 1rem;
+   font-weight: 500;
+ }
+
+ .second {
+   font-size: 2rem;
+   font-weight: 700;
+   border-bottom: 1px solid #000;
+ }
+
+ .third {
+   font-size: 0.9rem;
+   font-weight: 400;
+ }
+
+button {
+  font-size: 0.7rem;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  padding: 15px 32px;
+  text-align: center;
+  border: 2px solid black;
+  background: 0
+
+}
+
+
+
+img {
+  width: 80%;
+}
+
+#clockbox {
+  text-align: left;
+  font-family: 'Montserrat';
+  font-size: 1rem;
+  padding-left: 17%;
+}
+
+footer {
+  
+  color: #494949;
+  text-align: center;
+  font-family: 'Montserrat';
+  position: relative;
+
+}
